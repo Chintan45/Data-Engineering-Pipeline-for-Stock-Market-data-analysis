@@ -8,3 +8,6 @@
 1. kafka-python
 2. s3fs
 3. pandas
+
+#### Workflow
+<img src="./workflow.jpg" />
