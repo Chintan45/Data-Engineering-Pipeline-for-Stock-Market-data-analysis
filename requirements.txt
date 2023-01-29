@@ -1,0 +1,4 @@
+kafka-python
+s3fs
+pandas
+numpy
